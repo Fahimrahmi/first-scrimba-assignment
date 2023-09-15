@@ -1,0 +1,47 @@
+.photo{
+    color: #121212;
+    border-width: 3px;
+    border: 2px solid black;
+    display: block;
+    margin: 0px auto auto auto;
+    padding: 10px 20px 10px 20px;
+    width: 380px;
+    text-align: center;
+}  
+.first{
+    text-transform: uppercase;
+    
+}
+.top{
+    background-color: #121212;
+    color: white;
+    padding: 3px 38px;
+    padding: 4px 85px 4px 80px;
+    text-transform: uppercase;
+    
+    
+}
+.fast {
+    display: block;
+    margin: auto;
+    padding: 3px 50px 3px 50px;
+    background-color: white;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+.ttt::first-letter{
+    text-transform: capitalize;
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: 14px ;
+    font-weight: 500;
+
+}
+.ccc{
+    font-style: italic;
+    font-size: bold;
+    font-family: sans-serif;
+    font-size: 14px ;
+    font-weight: 500;
+}
+
